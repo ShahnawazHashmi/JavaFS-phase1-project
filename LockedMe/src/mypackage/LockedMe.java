@@ -31,7 +31,7 @@ public class LockedMe
 			break;
 			case 4: searchFiles();
 			break;
-			case 5: System.out.println("Thanks for using LockedMe.com");
+			case 5: System.out.println("Thanks for using LockedMe.com !!!");
 				    System.exit(0);
 			break;
 			default : System.out.println("Invalid Option");
