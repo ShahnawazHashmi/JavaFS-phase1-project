@@ -11,7 +11,7 @@ public class LockedMe
 	
 	static final String myProjectPath = "C:\\Java Projects\\My Assignments\\Live Classes Assignments\\LockedMe.Com";
 	static final String errorMessage="Some error occured please contact @Lockedme.com";
-    static final Scanner obj = new Scanner(System.in);
+        static final Scanner obj = new Scanner(System.in);
 	public static void main(String[] args) 
 	{
 		
